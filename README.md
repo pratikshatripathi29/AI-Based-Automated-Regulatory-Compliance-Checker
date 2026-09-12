@@ -1,5 +1,5 @@
 # AI-Based Automated Compliance Checker
-
+http://regulatory-compliance-checker-pt.streamlit.app/
 An AI-powered tool that scans a document (privacy policy, contract, SOP, etc.) and checks it against a set of regulatory requirements — clause by clause — flagging what's compliant, what's weak, and what's missing, along with an overall compliance score and a downloadable report.
 
 This prototype is configured for GDPR compliance checking but is built so the rule base can be swapped for another regulation (HIPAA, AML/KYC, GMP) with minimal changes.
