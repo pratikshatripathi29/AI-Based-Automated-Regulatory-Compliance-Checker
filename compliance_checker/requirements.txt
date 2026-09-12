@@ -5,3 +5,4 @@ python-docx
 pandas
 numpy
 scikit-learn
+fpdf2
