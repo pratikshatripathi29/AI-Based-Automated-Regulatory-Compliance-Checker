@@ -1,0 +1,72 @@
+[
+  {
+    "rule_id": "GDPR_Art6",
+    "article": "Article 6",
+    "title": "Lawful Basis for Processing",
+    "requirement": "The document must explicitly state the lawful legal basis relied upon for collecting and processing personal data.",
+    "severity": "high"
+  },
+  {
+    "rule_id": "GDPR_Art7",
+    "article": "Article 7",
+    "title": "Conditions for Consent",
+    "requirement": "The document must explain that consent can be freely given, specific, informed, and can be withdrawn by the data subject at any time.",
+    "severity": "high"
+  },
+  {
+    "rule_id": "GDPR_Art15",
+    "article": "Article 15",
+    "title": "Right to Access",
+    "requirement": "The document must state that individuals have the right to request access to and obtain copies of their personal data.",
+    "severity": "medium"
+  },
+  {
+    "rule_id": "GDPR_Art17",
+    "article": "Article 17",
+    "title": "Right to Erasure",
+    "requirement": "The document must describe the individual's right to request the deletion or removal of their personal data without undue delay.",
+    "severity": "high"
+  },
+  {
+    "rule_id": "GDPR_Art33",
+    "article": "Article 33",
+    "title": "Data Breach Notification",
+    "requirement": "The document must mention procedures for notifying supervisory authorities and affected individuals within 72 hours in the event of a personal data breach.",
+    "severity": "high"
+  },
+  {
+    "rule_id": "GDPR_Art5_Minimization",
+    "article": "Article 5(1)(c)",
+    "title": "Data Minimization",
+    "requirement": "The document must specify that personal data collected is adequate, relevant, and strictly limited to what is necessary for the stated processing purposes.",
+    "severity": "medium"
+  },
+  {
+    "rule_id": "GDPR_Art5_Purpose",
+    "article": "Article 5(1)(b)",
+    "title": "Purpose Limitation",
+    "requirement": "The document must clearly state the specific, explicit, and legitimate purposes for which personal data is collected and processed.",
+    "severity": "high"
+  },
+  {
+    "rule_id": "GDPR_Art13_Retention",
+    "article": "Article 13(2)(a)",
+    "title": "Data Retention Period",
+    "requirement": "The document must specify the storage periods for personal data or the explicit criteria used to determine how long data will be retained.",
+    "severity": "medium"
+  },
+  {
+    "rule_id": "GDPR_Art37_DPO",
+    "article": "Article 37",
+    "title": "Data Protection Officer Contact Information",
+    "requirement": "The document must provide clear contact details for the designated Data Protection Officer (DPO) or privacy compliance team.",
+    "severity": "low"
+  },
+  {
+    "rule_id": "GDPR_Art44_Transfers",
+    "article": "Article 44",
+    "title": "Cross-Border Data Transfer Safeguards",
+    "requirement": "The document must disclose whether personal data is transferred outside the European Economic Area and detail the safeguards applied for such transfers.",
+    "severity": "medium"
+  }
+]
