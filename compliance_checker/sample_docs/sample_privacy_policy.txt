@@ -1,1 +1,26 @@
-# Sample privacy policy document for compliance testing.
+Comprehensive Privacy Policy & Data Protection Notice
+Last Updated: January 2026
+
+1. Lawful Basis and Purpose Limitation:
+We collect and process your personal information strictly for specified, explicit, and legitimate purposes relating to account provisioning and service delivery. Our lawful basis for processing personal data relies upon your explicit consent and our legitimate business interests under GDPR Article 6.
+
+2. Consent and Withdrawal:
+Consent is freely given, specific, and informed. You have the absolute right to withdraw your consent to data processing at any time by updating your account settings or contacting our privacy office.
+
+3. Data Minimization:
+We ensure that personal data collected is adequate, relevant, and strictly limited to what is necessary for the stated processing purposes.
+
+4. Data Subject Rights (Access & Erasure):
+Individuals have the right to request access to and obtain copies of their personal data. Furthermore, data subjects have the right to request the prompt erasure and deletion of their personal data without undue delay under the right to be forgotten.
+
+5. Data Retention Period:
+Personal data is retained only for as long as necessary to fulfill the specified operational purposes, or for a maximum duration of 24 months following account closure, after which it is securely deleted.
+
+6. Data Breach Notification:
+In the event of a personal data breach that risks individual rights and freedoms, we maintain incident response procedures to notify supervisory authorities and affected individuals within 72 hours.
+
+7. Cross-Border Transfers:
+Where personal data is transferred outside the European Economic Area (EEA), we ensure adequate safeguards are implemented, specifically utilizing European Commission Standard Contractual Clauses (SCCs).
+
+8. Data Protection Officer (DPO):
+If you have questions regarding this policy or wish to exercise your rights, please contact our designated Data Protection Officer (DPO) at dpo@complianceguard-ai.com.
